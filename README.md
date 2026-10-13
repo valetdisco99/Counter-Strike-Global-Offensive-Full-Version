@@ -245,4 +245,4 @@ This repository serves as the official landing page for Counter-Strike: Global O
 **Get the most recent version of Counter-Strike: Global Offensive today!**
 
 ---
-**Last updated:** 2026-10-12 18:23:42 UTC
+**Last updated:** 2026-10-13 01:02:10 UTC
